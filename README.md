@@ -2,9 +2,9 @@
 
 ## 预览
 
-Demo 1：https://nianbroken.github.io/Firework_Simulator/
+Demo 1：
 
-Demo 2：https://fireworks.nianbroken.top/
+Demo 2：
 
 ## 展示图
 
